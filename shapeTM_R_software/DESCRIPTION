@@ -1,0 +1,15 @@
+Package: shapeTM
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.0.1
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Imports: data.table, dplyr, ggplot2, mltools, stringr
+NeedsCompilation: no
+Packaged: 2024-04-23 11:40:33 UTC; zhoutong
+Built: R 4.4.0; ; 2024-05-13 01:00:37 UTC; unix

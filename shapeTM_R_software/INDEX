@@ -1,0 +1,19 @@
+add_freature_base       Title
+add_freature_dot        Title
+auc                     AUC in ROC
+convert_dot             Dot convert
+is_pipe_output          Title
+is_pipe_score           Title
+is_rf_count             Title
+is_rf_director          Title
+merge_outputs           Merge RNAFramework and icSHAPE-pipe outputs
+merge_outputs_auto      Title
+read_dot                Read dot file
+read_icshape_output     Read icshape-pipe outout
+read_icshape_score      Title
+rf_read_mutation_count
+                        Title
+rf_read_mutation_director
+                        Read mutation directory
+run_bcftools            bcftools wrapper
+singnature_ratio        Title
