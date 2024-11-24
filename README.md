@@ -43,7 +43,7 @@ library(shapeTM)
 
 ### Rust Software Installation
 
-The Rust software is a compiled binary file that can be directly invoked on a computer or server with the same architecture.
+The Rust software is compiled [binary files](https://github.com/TongZhou2017/STONE/releases/tag/v0.0.1) that can be directly invoked on a computer or server with the same architecture. 
 
 <details><summary>[Click to view] Installation for different system architectures (not linux x86_64)</summary>
 
