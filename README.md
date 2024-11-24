@@ -126,7 +126,6 @@ The subsequent analyses are performed using **JupyterLab**, and the associated J
 - **SHAPE Data Calculation**: The SHAPE data is calculated using the notebook located at `stone_single_transcript_script/Single_transcript_SHAPE`.
 - **Raw Signals, STONE Structure Scores, and AUC Calculation**: The pipeline also calculates the **raw signals**, **STONE structure scores**, and the **AUC scores** for each transcript.
 
-<img src="https://files.mdnice.com/user/80995/f4b23aea-4749-4ef4-8469-4a8b36ae6122.jpg" alt="AUC plot" width="200" />
 
 ### Genome-level Analysis Pipeline
 This pipeline utilizes a **RUST script** located in `stone_genome_software/` to integrate three different signal files. 
@@ -333,8 +332,6 @@ Options:
 -h, --help <store_true>  
     Display help message.  
 ```
-
-![deltashape plot](https://files.mdnice.com/user/80995/a87f45c7-cdf8-4b1d-9eb0-54257464a91b.jpg)
 
 
 ---
